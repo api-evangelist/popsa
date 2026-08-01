@@ -1,0 +1,21 @@
+# Contact
+
+**Our security email address to contact us about security issues, vulnerability report, etc.**
+
+Contact: security@popsa.com
+
+# Language
+
+**We primarily speak (British) English but will attempt to respond to serious reports in any language.**
+
+Preferred-Languages: en
+
+# Hiring
+
+**If you are interested in a position at Popsa, take a look at our job listings.**
+
+Hiring: https://blog.popsa.com/jobs/
+
+Canonical: https://popsa.com/.well-known/security.txt
+
+Expires: Fri, 31 Dec 2024 23:59 +0000

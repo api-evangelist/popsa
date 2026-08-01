@@ -1,7 +1,30 @@
 aid: popsa
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/popsa.png
 name: Popsa
-description: Popsa is a company surfaced as a portfolio company of 500-global and added to the API Evangelist
-  network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+description: >-
+  Popsa is a UK-based, mobile-first photo printing company that uses AI to help
+  customers create photo books, calendars, prints, tiles, boxes and ornaments in
+  minutes. Founded in the UK and a certified B Corporation that offsets 100% of
+  production and shipping carbon emissions, Popsa serves over 10 million
+  customers and ships to more than 50 countries with localised storefronts
+  across Europe, North America and Australia. Its differentiators are AI-powered
+  automatic layouts, generative captions, facial recognition, print-quality
+  scoring and dynamic colour themes, delivering an average five-minute creation
+  time. Popsa was surfaced as a 500 Global portfolio company and added to the
+  API Evangelist network. It publishes no public developer API, SDK or developer
+  portal; this profile captures its public discovery surface (llms.txt,
+  security.txt) and domain security posture instead.
 url: https://raw.githubusercontent.com/api-evangelist/popsa/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -11,9 +34,16 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-20'
 tags:
 - Company
+- Photo Printing
+- Consumer
+- Photo Books
+- E-Commerce
+- Artificial Intelligence
+- Mobile
+- B Corporation
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -23,3 +53,28 @@ maintainers:
 common:
 - type: Website
   url: https://popsa.com
+- type: Support
+  url: https://support.popsa.com
+- type: Blog
+  url: https://popsa.com/perspectives/
+- type: PrivacyPolicy
+  url: https://popsa.com/privacy/
+- type: TermsOfService
+  url: https://popsa.com/terms/
+- type: LLMsTxt
+  url: llms/popsa-llms.txt
+- type: WellKnown
+  url: well-known/popsa-well-known.yml
+- type: SecurityTxt
+  url: well-known/popsa-security.txt
+- type: DomainSecurity
+  url: security/popsa-domain-security.yml
+- type: VulnerabilityDisclosure
+  url: security/popsa-vulnerability-disclosure.yml
+- type: Security
+  url: https://popsa.com/.well-known/security.txt
+x-enrichment:
+  date: '2026-07-20'
+  status: enriched
+  artifacts_added: 5
+  pass: local-v1

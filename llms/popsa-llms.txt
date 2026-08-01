@@ -1,0 +1,64 @@
+# Popsa
+ 
+> Popsa is a mobile-first photo printing company that uses AI to help customers create photo books, calendars, prints and other photo products in minutes. The company serves over 10 million customers and ships internationally to 50 countries. Founded and based in the UK, Popsa is a certified B Corporation that offsets 100% of carbon emissions from production and shipping.
+ 
+Popsa has a 4.8/5 rating on the App Store, 4.5/5 on Google Play and 4.4/5 "Excellent" on Trustpilot. Products are manufactured locally where possible, including in the UK and US for those markets. Key differentiators include 5-minute average creation time, AI-powered features (automatic layouts, generative captions, facial recognition, print quality scoring, dynamic colour themes) and a mobile-first design philosophy. All photo books use 200gsm+ paper and come with a 100% satisfaction guarantee.
+ 
+Popsa ships to 50+ countries and operates localised storefronts in: UK (en-gb), US (en-us), Canada (en-ca), Australia (en-au), Germany (de-de, de-at, de-ch), France (fr-fr, fr-ca, fr-ch, fr-be), Spain (es-es, es-mx), Italy (it-it), Netherlands (nl-nl, nl-be), Poland (pl-pl), Portugal (pt-pt), Sweden (sv-se), Norway (nb-no), Finland (fi-fi), Denmark (da-dk).
+ 
+## Company
+ 
+- [About Popsa](https://popsa.com/about/): Company background, mission and team
+- [Features](https://popsa.com/features/): Full list of AI and app capabilities
+- [Technology](https://popsa.com/technology/): Overview of Popsa's AI and automation technology
+- [Reviews](https://popsa.com/reviews/): Customer reviews and ratings
+- [Sustainability](https://popsa.com/sustainability/): B Corp certification, carbon offsetting and environmental commitment
+- [Careers](https://popsa.com/careers/): Open positions and working at Popsa
+- [Contact & Help](https://popsa.com/contact/): Customer support
+ 
+## Apps
+ 
+- [Popsa for iOS](https://apps.apple.com/app/popsa/id936799728): iPhone and iPad app
+- [Popsa for Android](https://play.google.com/store/apps/details?id=com.popsa): Android app
+- [Popsa for Web](https://popsa.com/download/): Browser-based creation tool
+ 
+## Products
+ 
+- [All Products](https://popsa.com/products/): Overview of Popsa's product range
+- [Photo Books](https://popsa.com/products/photo-books/): Photo book category overview
+- [Hardcover Photo Book](https://popsa.com/products/photo-books/hardcover-photo-book/): 200gsm paper, Medium/Large/Extra Large, 20-150 pages, optional layflat/gloss/foil upgrades
+- [Hardcover Photo Book (Square)](https://popsa.com/products/photo-books/hardcover-photo-book/square/): Square format hardcover option
+- [Softcover Photo Book](https://popsa.com/products/photo-books/softcover-photo-book/): Flexible cover, 200gsm paper, Medium/Large, 20-150 pages
+- [Softcover Photo Book (Square)](https://popsa.com/products/photo-books/softcover-photo-book/square/): Square format softcover option
+- [Photo Booklet](https://popsa.com/products/photo-books/photo-booklet/): Compact 200gsm booklet, 12-20 pages
+- [Photo Prints](https://popsa.com/products/photo-prints/): Photo prints category overview
+- [Regular Photo Prints](https://popsa.com/products/photo-prints/regular-prints/): Rectangular prints in 6x4", 7x5", 8x6", 12x8"
+- [Square Photo Prints](https://popsa.com/products/photo-prints/square-prints/): Square prints in 4x4", 5x5", 8x8"
+- [Photo Calendars](https://popsa.com/products/photo-calendars/): Calendar category overview
+- [Portrait Wall Calendar](https://popsa.com/products/photo-calendars/portrait-wall-calendar/): 250gsm uncoated paper, portrait orientation
+- [Landscape Wall Calendar](https://popsa.com/products/photo-calendars/landscape-wall-calendar/): 250gsm uncoated paper, landscape orientation
+- [Photo Ornaments](https://popsa.com/products/photo-ornaments/): Christmas ornament category overview
+- [Acrylic Ornaments](https://popsa.com/products/photo-ornaments/acrylic-ornaments/): Acrylic photo ornaments for Christmas trees
+- [Glass Ornaments](https://popsa.com/products/photo-ornaments/glass-ornaments/): Glass photo ornaments for Christmas trees
+- [Photo Tiles](https://popsa.com/products/photo-tiles/square-frame-tiles/): Restickable framed photo tiles for walls
+- [Photo Boxes](https://popsa.com/products/photo-boxes/retro-prints-with-box/): Retro-style prints with presentation box
+ 
+## Perspectives Blog
+ 
+Perspectives is Popsa's editorial blog covering photography, travel, occasions, guides, lifestyle, data insights and company stories. Browse all articles at [popsa.com/perspectives](https://popsa.com/perspectives/).
+ 
+- [Insights](https://popsa.com/perspectives/category/insights/): Data-led stories about how we capture the world
+- [Guides](https://popsa.com/perspectives/category/guides/): Expert advice on taking your Popsa products to the next level
+- [Travel](https://popsa.com/perspectives/category/travel/): Capturing the world via incredible destinations and journeys that leave a lasting impression
+- [Photography](https://popsa.com/perspectives/category/photography/): Exploring the craft and technique behind the perfect photo
+- [Stories](https://popsa.com/perspectives/category/stories/): Moving narratives of life and the experiences that shape us
+- [Occasions](https://popsa.com/perspectives/category/occasions/): Ideas and inspiration for birthdays, weddings and every moment in between
+- [Lifestyle](https://popsa.com/perspectives/category/lifestyle/): Tips to elevate the everyday for a life that feels as good as it looks
+- [Inside Popsa](https://popsa.com/perspectives/category/inside-popsa/): Company updates, culture and creative sparks from the team at Popsa HQ
+ 
+## Optional
+ 
+- [How Photo Books Are Made](https://popsa.com/perspectives/how-photo-books-are-made/)
+- [Popsa Becomes Certified B Corp](https://popsa.com/perspectives/popsa-becomes-certified-b-corp/)
+- [Popsa Journey: Growth, Culture & Impact](https://popsa.com/perspectives/popsa-journey-growth-culture-impact/): Company history and development
+
