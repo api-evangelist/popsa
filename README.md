@@ -64,6 +64,85 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Popsa is a company surfaced as a portfolio company of 500-global and added to the API Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+Popsa is a UK-based, mobile-first photo printing company that uses AI to help customers create photo books, calendars, prints, tiles, boxes and ornaments in minutes. Founded in the UK and a certified B Corporation that offsets 100% of production and shipping carbon emissions, Popsa serves over 10 million customers and ships to more than 50 countries with localised storefronts across Europe, North America and Australia. Its differentiators are AI-powered automatic layouts, generative captions, facial recognition, print-quality scoring and dynamic colour themes, delivering an average five-minute creation time. Popsa was surfaced as a 500 Global portfolio company and added to the API Evangelist network. It publishes no public developer API, SDK or developer portal; this profile captures its public discovery surface (llms.txt, security.txt) and domain security posture instead.
 
-Backed by: 500-global — https://popsa.com
+**Areas:** Company · Photo Printing · Consumer · Photo Books · E-Commerce · Artificial Intelligence · Mobile · B Corporation
+
+## Popsa on APIs.io
+
+Everything profiled for Popsa is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/popsa/](https://apis.io/providers/popsa/)** — or go straight to one of the APIs or properties below.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Popsa Domain Security](https://apis.io/security/popsa/popsa-domain-security/)
+- [Popsa Vulnerability Disclosure](https://apis.io/security/popsa/popsa-vulnerability-disclosure/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://popsa.com)
+- [Support](https://support.popsa.com)
+- [Blog](https://popsa.com/perspectives/)
+- [Security](https://popsa.com/.well-known/security.txt)
+- [Terms of service](https://popsa.com/terms/)
+- [Privacy policy](https://popsa.com/privacy/)
+
+## API Evangelist rating
+
+**Kin Score 13.0** — emerging · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 55.4 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 10.5 |
+| Developer ergonomics | 7.1 |
+| Access clarity | 21.1 |
+
+**Agent readiness 0.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 18.2** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/popsa/](https://apis.io/providers/popsa/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Popsa: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/popsa/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
